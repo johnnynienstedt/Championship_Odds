@@ -4,7 +4,7 @@ Probability of winning World Series based on regular season record (current 6-te
 # Inspiration
 This small project arose from a question in the interview process with an MLB team: If MLB instituted an 8-team postseason format (a la 2020), how should organizations adjust their team-building philosophy? Here was my response, limited to 300 words:
 
-If MLB expanded the playoffs to eight teams in each league, organizations should place less emphasis on maximizing peak team quality, and more emphasis on minimizing the frequency of uncompetitive seasons. The plot to the right (odds_by_format.png) displays championship odds for teams of varying quality under the current and proposed formats.
+If MLB expanded the playoffs to eight teams in each league, organizations should place less emphasis on maximizing peak team quality, and more emphasis on minimizing the frequency of uncompetitive seasons. The plot to the right (championship_odds_plot.png) displays championship odds for teams of varying quality under the current and proposed formats.
 
 The lack of byes eliminates much of the advantage of a great regular season record, as home field is a fairly small factor in five and seven game series. Only the three game series, presumably still played entirely at one venue, still fairly reward a better record.
 
